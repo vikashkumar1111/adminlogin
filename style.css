@@ -1,0 +1,121 @@
+*{
+    padding: auto;
+    margin: auto;
+
+}
+
+body{
+    font-family: OpenSansRegular,sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: normal;
+    line-height: 30px;
+    color: #676056;
+    letter-spacing: 0.04em !important;
+}
+.dis{
+    /* background-color: red; */
+    /* border: 2px solid yellow; */
+    display: flex;
+    /* overflow: hidden; */
+}
+
+.nav-items-c:hover{
+    background-color: black !important;
+    text-decoration: none;
+    color: white;
+    border-bottom: 5px solid green;
+}
+
+.section{
+    font-family: OpenSansRegular,sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: normal;
+    line-height: 30px;
+    color: #676056;
+    letter-spacing: 0.04em !important;
+}
+.row{
+    display: flex;
+    
+}
+.nav-link{
+    color: white;
+    display: block;
+
+    
+    
+}
+.nan{
+    text-decoration: none;
+    border-bottom: 3px solid #54c1bc;
+    z-index: 99;
+}
+
+.img {
+    
+    margin-bottom:none;
+  
+    border-radius: solid 1%;
+   
+}
+.contact{
+    width: 30%;
+    height: 80vh;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-bottom: 0%;
+    margin-right: 12%;
+    justify-content: center;
+    align-items: center;
+}
+.h2_col{
+    color: #F06D29;
+}
+.map{
+    padding: 1%;
+    margin-right: -111%;
+    margin-top: -124%;
+}
+.info{
+    
+    padding: 17%;
+    margin-right: -955px;
+    margin-top: -590px;
+
+
+}
+.card-body{
+    margin: 20px;
+    padding-top: 30px;
+    background-color: wheat;
+}
+
+/* hghg */
+.card {
+    /* margin: 20px; */
+    margin-top: 55px;
+    /* background-color: lightgrey; */
+}
+
+.logout a {
+    text-decoration: none;
+    color: red;
+    position: relative;
+    right: -100px;
+
+}
+
+.text button a {
+    text-decoration: none;
+
+}
+
+#admin {
+    color: red;
+}
